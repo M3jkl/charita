@@ -1,0 +1,57 @@
+.stranka1 { width: 1920px;
+            height: 1080px;
+            border: solid 2px black; 
+                            }
+ 
+.hlava { height: 200px;
+         width: 100%;
+         border: solid 2px black;
+
+
+
+                                }      
+                       
+.navigace {  height: 100px;
+             width: 100%;
+             border: solid 2px black;
+                                
+                                
+                                }         
+                                
+.text { height: 300px;
+        width: 100%;
+        border: solid 2px black;
+                            
+                            
+                            }                                
+                                
+                                
+                                
+ .text1{ height: 100%;
+         width: 70%;
+         border: solid 2px black; 
+         float: left;  
+                       }                               
+                                
+                                
+                                
+                                
+                                
+.login{ height: 100%;
+        width: 29%;
+        border: solid 2px black;
+        float: left;                 }                                
+                                
+                                
+                                
+.fotky{ height: 400px;
+        width: 100%;
+        border: solid 2px black;
+                             }                                
+                                
+                                
+ .konec{ height: 60px;
+         width:  100%;
+         border: solid 2px black;
+ 
+                                     }                               
